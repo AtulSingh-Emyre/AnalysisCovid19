@@ -1,8 +1,11 @@
 # ...
 
 This project is part of the Udacity Nanodegree Data Analyst. It is based on data
-of the ... Main goal of this project is t... Firstly data is gathered from different sources:
- ... Secondly the data from the different sources is visually and programmatically assessed to be cleaned in the next step for the final
+about Covid19 of the John Hopkins Univertity.
+Main goal of this project is t... Firstly data is gathered from different sources:
+ ...
+ Secondly the data from the different sources is visually and programmatically
+ assessed to be cleaned in the next step for the final
  analysis. The analysis ...
 
 ## Quickstart
