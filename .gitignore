@@ -1,2 +1,8 @@
+# Reference projects
 example_notebooks
+
+# Mac working files
 .DS_Store
+
+# Jupyter Notebook working files
+.ipynb_checkpoints/
