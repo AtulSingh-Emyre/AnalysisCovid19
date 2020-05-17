@@ -1,4 +1,4 @@
-﻿country,continent,hospital_beds_per_1000_people,occupancy,ICU-CCB_beds_per_1000_people,ventilators
+﻿countryname,continent,hospital_beds_per_1000_people,occupancy,ICU-CCB_beds_per_1000_people,ventilators
  Japan,Asia,13.05,75.5,7.3,"32,586"
  South Korea,Asia,12.27,,10.6,"9,795"
  Russia,Europe,8.05,,8.3,"40,000"
