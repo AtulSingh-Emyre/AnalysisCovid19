@@ -6,3 +6,6 @@ example_notebooks
 
 # Jupyter Notebook working files
 .ipynb_checkpoints/
+
+# Output files of Jupyter Notebook script
+covid_master.csv
