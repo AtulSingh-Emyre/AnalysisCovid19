@@ -1,93 +1,93 @@
-,ISO code,date,Cumulative total,Cumulative total per thousand,country
-0,ARG,2020-05-16,100362,2.221,Argentina
-1,AUS,2020-05-16,1015652,39.83,Australia
-2,AUT,2020-05-16,357393,39.681999999999995,Austria
-3,BHR,2020-05-16,230188,135.279,Bahrain
-4,BGD,2020-05-16,167294,1.016,Bangladesh
-5,BLR,2020-05-14,308156,32.611,Belarus
-6,BEL,2020-05-14,543535,46.898,Belgium
-7,BOL,2020-05-15,9663,0.828,Bolivia
-8,BRA,2020-04-20,132467,0.623,Brazil
-9,BGR,2020-05-16,64480,9.28,Bulgaria
-10,CAN,2020-05-16,1265502,33.53,Canada
-11,CHL,2020-05-16,350325,18.326,Chile
-12,COL,2020-05-15,183112,3.5989999999999998,Colombia
-13,CRI,2020-05-16,13696,2.6889999999999996,Costa Rica
-14,HRV,2020-05-16,52425,12.77,Croatia
-15,CUB,2020-05-15,79834,7.047999999999999,Cuba
-16,CZE,2020-05-15,348849,32.575,Czech Republic
-17,DNK,2020-05-16,379482,65.516,Denmark
-18,ECU,2020-05-15,47881,2.714,Ecuador
-19,SLV,2020-05-16,53412,8.235,El Salvador
-20,EST,2020-05-15,68840,51.894,Estonia
-21,ETH,2020-05-14,45278,0.39399999999999996,Ethiopia
-22,FIN,2020-05-15,143805,25.954,Finland
-23,FRA,2020-05-05,831174,12.734000000000002,France
-24,DEU,2020-05-10,3147771,37.57,Germany
-25,GHA,2020-05-14,171642,5.524,Ghana
-26,GHA,2020-05-14,172623,5.555,Ghana
-27,GRC,2020-05-16,126283,12.116,Greece
-28,HKG,2020-05-12,183491,24.475,Hong Kong
-29,HUN,2020-05-16,131429,13.605,Hungary
-30,ISL,2020-05-15,56701,166.157,Iceland
-31,IND,2020-04-24,525667,0.381,India
-32,IND,2020-05-16,2134277,1.547,India
-33,IDN,2020-05-16,135726,0.496,Indonesia
-34,IRN,2020-05-16,672679,8.009,Iran
-35,IRL,2020-05-12,258808,52.413999999999994,Ireland
-36,ISR,2020-05-13,478106,55.236999999999995,Israel
-37,ITA,2020-05-16,1899767,31.421,Italy
-38,ITA,2020-05-16,2944859,48.706,Italy
-39,JPN,2020-05-16,240368,1.9,Japan
-40,JPN,2020-05-14,365074,2.886,Japan
-41,KAZ,2020-05-16,505216,26.906999999999996,Kazakhstan
-42,KEN,2020-05-15,39018,0.726,Kenya
-43,LVA,2020-05-16,87377,46.324,Latvia
-44,LTU,2020-05-16,224040,82.29799999999999,Lithuania
-45,LUX,2020-05-16,60246,96.243,Luxembourg
-46,MYS,2020-05-16,434136,13.413,Malaysia
-47,MEX,2020-05-15,134663,1.044,Mexico
-48,MAR,2020-05-01,37006,1.003,Morocco
-49,MMR,2020-05-16,13634,0.251,Myanmar
-50,NPL,2020-05-15,23914,0.821,Nepal
-51,NLD,2020-05-14,287943,16.805,Netherlands
-52,NZL,2020-05-15,223937,46.438,New Zealand
-53,NGA,2020-05-16,32942,0.16,Nigeria
-54,NOR,2020-05-15,216350,39.908,Norway
-55,PAK,2020-05-16,359264,1.626,Pakistan
-56,PAN,2020-05-15,47768,11.071,Panama
-57,PRY,2020-05-09,14646,2.053,Paraguay
-58,PER,2020-05-16,630482,19.122,Peru
-59,PHL,2020-05-13,184617,1.685,Philippines
-60,POL,2020-05-15,576276,15.227,Poland
-61,PRT,2020-05-13,600061,58.849,Portugal
-62,QAT,2020-05-16,152704,53.003,Qatar
-63,ROU,2020-05-14,286217,14.878,Romania
-64,RUS,2020-05-16,6656340,45.611999999999995,Russia
-65,RWA,2020-05-16,48239,3.7239999999999998,Rwanda
-66,SAU,2020-05-16,548023,15.742,Saudi Arabia
-67,SEN,2020-05-16,27618,1.649,Senegal
-68,SRB,2020-05-16,174746,25.680999999999997,Serbia
-69,SGP,2020-05-10,186183,31.824,Singapore
-70,SGP,2020-05-10,246254,42.092,Singapore
-71,SVK,2020-05-16,139986,25.64,Slovakia
-72,SVN,2020-05-15,68852,33.119,Slovenia
-73,ZAF,2020-05-15,421555,7.108,South Africa
-74,KOR,2020-05-16,740645,14.446,South Korea
-75,ESP,2020-05-14,1919411,41.053000000000004,Spain
-76,SWE,2020-05-10,177200,17.546,Sweden
-77,CHE,2020-05-15,339347,39.21,Switzerland
-78,TWN,2020-05-15,68988,2.897,Taiwan
-79,THA,2020-05-17,120659,1.729,Thailand
-80,THA,2020-05-08,286008,4.098,Thailand
-81,TUN,2020-05-14,37862,3.2039999999999997,Tunisia
-82,TUR,2020-05-16,1589625,18.848,Turkey
-83,UGA,2020-05-15,70730,1.546,Uganda
-84,UKR,2020-05-16,220638,5.045,Ukraine
-85,GBR,2020-05-16,1742028,25.660999999999998,United Kingdom
-86,GBR,2020-05-16,2489563,36.673,United Kingdom
-87,USA,2020-05-16,10720185,32.387,United States
-88,USA,2020-05-13,10217573,30.869,United States
-89,URY,2020-05-16,32225,9.277000000000001,Uruguay
-90,VNM,2020-04-29,261004,2.681,Vietnam
-91,ZWE,2020-05-15,11401,0.767,Zimbabwe
+,ISO code,Entity,date,Cumulative total,Cumulative total per thousand,country
+0,ARG,Argentina - tests performed,2020-05-18,105829,2.342,Argentina
+1,AUS,Australia - tests performed,2020-05-19,1085870,42.583,Australia
+2,AUT,Austria - tests performed,2020-05-19,372435,41.352,Austria
+3,BHR,Bahrain - units unclear,2020-05-19,248205,145.86700000000002,Bahrain
+4,BGD,Bangladesh - samples tested,2020-05-19,193645,1.176,Bangladesh
+5,BLR,Belarus - tests performed,2020-05-17,350515,37.094,Belarus
+6,BEL,Belgium - units unclear,2020-05-17,578746,49.937,Belgium
+7,BOL,Bolivia - cases tested,2020-05-18,10349,0.887,Bolivia
+8,BRA,Brazil - tests performed,2020-05-14,3081480,14.497,Brazil
+9,BGR,Bulgaria - tests performed,2020-05-19,66810,9.615,Bulgaria
+10,CAN,Canada - people tested,2020-05-19,1336967,35.424,Canada
+11,CHL,Chile - tests performed,2020-05-19,397200,20.778000000000002,Chile
+12,COL,Colombia - samples tested,2020-05-17,196417,3.86,Colombia
+13,CRI,Costa Rica - people tested,2020-05-19,14616,2.8689999999999998,Costa Rica
+14,HRV,Croatia - people tested,2020-05-19,55800,13.592,Croatia
+15,CUB,Cuba - tests performed,2020-05-18,85556,7.553999999999999,Cuba
+16,CZE,Czech Republic - tests performed,2020-05-18,363963,33.986999999999995,Czech Republic
+17,DNK,Denmark - people tested,2020-05-19,402194,69.437,Denmark
+18,ECU,Ecuador - units unclear,2020-05-19,53813,3.05,Ecuador
+19,SLV,El Salvador - tests performed,2020-05-18,60341,9.302999999999999,El Salvador
+20,EST,Estonia - tests performed,2020-05-18,71441,53.855,Estonia
+21,ETH,Ethiopia - tests performed,2020-05-19,62300,0.542,Ethiopia
+22,FIN,Finland - samples tested,2020-05-17,151935,27.421999999999997,Finland
+23,FRA,France - tests performed,2020-05-05,831174,12.734000000000002,France
+24,DEU,Germany - tests performed,2020-05-10,3147771,37.57,Germany
+25,GHA,Ghana - people tested,2020-05-17,179586,5.779,Ghana
+26,GHA,Ghana - samples tested,2020-05-17,180567,5.811,Ghana
+27,GRC,Greece - tests performed,2020-05-19,136001,13.048,Greece
+28,HKG,Hong Kong - tests performed,2020-05-12,183491,24.475,Hong Kong
+29,HUN,Hungary - tests performed,2020-05-19,138697,14.357000000000001,Hungary
+30,ISL,Iceland - samples tested,2020-05-18,57146,167.46099999999998,Iceland
+31,IND,India - people tested,2020-04-24,525667,0.381,India
+32,IND,India - samples tested,2020-05-18,2302792,1.669,India
+33,IDN,Indonesia - people tested,2020-05-19,147799,0.54,Indonesia
+34,IRN,Iran - tests performed,2020-05-19,716176,8.527000000000001,Iran
+35,IRL,Ireland - units unclear,2020-05-19,295626,59.87,Ireland
+36,ISR,Israel - tests performed,2020-05-17,498969,57.647,Israel
+37,ITA,Italy - people tested,2020-05-19,1999599,33.071999999999996,Italy
+38,ITA,Italy - tests performed,2020-05-19,3104524,51.347,Italy
+39,JPN,Japan - people tested,2020-05-19,255675,2.022,Japan
+40,JPN,Japan - tests performed,2020-05-16,402476,3.182,Japan
+41,KAZ,Kazakhstan - tests performed,2020-05-19,553062,29.455,Kazakhstan
+42,KEN,Kenya - units unclear,2020-05-19,46784,0.87,Kenya
+43,LVA,Latvia - tests performed,2020-05-19,90968,48.228,Latvia
+44,LTU,Lithuania - samples tested,2020-05-19,237600,87.279,Lithuania
+45,LUX,Luxembourg - people tested,2020-05-19,63011,100.66,Luxembourg
+46,MYS,Malaysia - cases tested,2020-05-17,443263,13.695,Malaysia
+47,MEX,Mexico - cases tested,2020-05-17,150198,1.165,Mexico
+48,MAR,Morocco - people tested,2020-05-18,95536,2.588,Morocco
+49,MMR,Myanmar - samples tested,2020-05-19,15137,0.278,Myanmar
+50,NPL,Nepal - people tested,2020-05-18,30724,1.054,Nepal
+51,NLD,Netherlands - people tested,2020-05-18,302395,17.648,Netherlands
+52,NZL,New Zealand - tests performed,2020-05-18,233843,48.493,New Zealand
+53,NGA,Nigeria - samples tested,2020-05-19,36899,0.179,Nigeria
+54,NOR,Norway - people tested,2020-05-19,219984,40.578,Norway
+55,PAK,Pakistan - tests performed,2020-05-19,400292,1.8119999999999998,Pakistan
+56,PAN,Panama - units unclear,2020-05-18,51105,11.844000000000001,Panama
+57,PRY,Paraguay - samples tested,2020-05-09,14646,2.053,Paraguay
+58,PER,Peru - units unclear,2020-05-19,105627,3.2039999999999997,Peru
+59,PHL,Philippines - people tested,2020-05-15,188024,1.716,Philippines
+60,POL,Poland - samples tested,2020-05-19,653224,17.26,Poland
+61,PRT,Portugal - samples tested,2020-05-17,662375,64.96,Portugal
+62,QAT,Qatar - people tested,2020-05-19,166182,57.681000000000004,Qatar
+63,ROU,Romania - tests performed,2020-05-17,310407,16.135,Romania
+64,RUS,Russia - tests performed,2020-05-19,7352316,50.381,Russia
+65,RWA,Rwanda - units unclear,2020-05-18,51118,3.947,Rwanda
+66,SAU,Saudi Arabia - units unclear,2020-05-19,618084,17.754,Saudi Arabia
+67,SEN,Senegal - tests performed,2020-05-19,30436,1.818,Senegal
+68,SRB,Serbia - people tested,2020-05-19,190683,28.023000000000003,Serbia
+69,SGP,Singapore - people tested,2020-05-10,186183,31.824,Singapore
+70,SGP,Singapore - swabs tested,2020-05-10,246254,42.092,Singapore
+71,SVK,Slovakia - tests performed,2020-05-19,145474,26.645,Slovakia
+72,SVN,Slovenia - tests performed,2020-05-18,70970,34.138000000000005,Slovenia
+73,ZAF,South Africa - units unclear,2020-05-18,475071,8.01,South Africa
+74,KOR,South Korea - cases tested,2020-05-19,765574,14.932,South Korea
+75,ESP,Spain - tests performed,2020-05-14,1919411,41.053000000000004,Spain
+76,SWE,Sweden - people tested,2020-05-17,209900,20.784000000000002,Sweden
+77,CHE,Switzerland - tests performed,2020-05-18,350091,40.451,Switzerland
+78,TWN,Taiwan - tests performed,2020-05-18,69657,2.925,Taiwan
+79,THA,Thailand - people tested,2020-05-18,127108,1.821,Thailand
+80,THA,Thailand - samples tested,2020-05-08,286008,4.098,Thailand
+81,TUN,Tunisia - units unclear,2020-05-17,41620,3.522,Tunisia
+82,TUR,Turkey - tests performed,2020-05-19,1675517,19.866,Turkey
+83,UGA,Uganda - samples tested,2020-05-18,74098,1.62,Uganda
+84,UKR,Ukraine - units unclear,2020-05-19,239961,5.487,Ukraine
+85,GBR,United Kingdom - people tested,2020-05-18,1887051,27.796999999999997,United Kingdom
+86,GBR,United Kingdom - tests performed,2020-05-19,2772552,40.841,United Kingdom
+87,USA,United States - inconsistent units (COVID Tracking Project),2020-05-18,11834508,35.754,United States
+88,USA,United States - tests performed,2020-05-18,11282781,34.086999999999996,United States
+89,URY,Uruguay - tests performed,2020-05-19,34384,9.898,Uruguay
+90,VNM,Vietnam - units unclear,2020-04-29,261004,2.681,Vietnam
+91,ZWE,Zimbabwe - tests performed,2020-05-18,13104,0.882,Zimbabwe
